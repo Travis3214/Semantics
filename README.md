@@ -6,11 +6,11 @@ In this assignment, we are supposed to remove div and replace tags with semantic
 ## Installation
 N/A
 
-## Display
-![Horizeon]()
-
 ## Usage
 pages link
 
 ## License
 N/A
+
+## Screenshot
+![Horizeon](./assets/images/_Users_travis_Documents_UCF_Homework_Semantics_index.html%20(1).png)
