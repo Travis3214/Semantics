@@ -7,7 +7,7 @@ In this assignment, we are supposed to remove div and replace tags with semantic
 N/A
 
 ## Usage
-pages link
+https://travis3214.github.io/Semantics/#search-engine-optimization
 
 ## License
 N/A
